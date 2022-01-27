@@ -1,0 +1,8 @@
+
+{
+    "users":[
+    {"id":1,"uname":"rahul","email":"rahul@123","age":25,"city":"Nasik"},
+    {"id":2,"uname":"samir","email":"samir@123","age":20,"city":"Pune"},
+    {"id":3,"uname":"daniyal","email":"daniyal@123","age":22,"city":"Mumbai"}
+]
+}

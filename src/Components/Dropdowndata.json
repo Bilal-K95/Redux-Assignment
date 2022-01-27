@@ -1,0 +1,16 @@
+{
+  "country": [
+    { "id": 1, "name": "India" },
+    { "id": 2, "name": "Australia" }
+  ],
+
+  "state": [
+    { "id": 1, "name": "Maharashtra", "country_id": 1 },
+    { "id": 2, "name": "Nikoba", "country_id": 2 }
+  ],
+  
+  "city": [
+    { "id": 1, "name": "Pune", "state_id": 1 },
+    { "id": 2, "name": "Maharashtra", "state_id": 2 }
+  ]
+}
